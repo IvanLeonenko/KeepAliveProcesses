@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeepAlive", "KeepAlive\KeepAlive.csproj", "{856CA5D1-715E-499A-ACCA-3D5656CFF405}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeepAliveClient", "KeepAliveClient\KeepAliveClient.csproj", "{B054ABCA-DA47-45AD-8321-230AE4301EAC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimultaneousTerminate", "SimultaneousTerminate\SimultaneousTerminate.csproj", "{7DA72E86-3B7D-4B64-9A33-E2E8FA1B0786}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{856CA5D1-715E-499A-ACCA-3D5656CFF405}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{856CA5D1-715E-499A-ACCA-3D5656CFF405}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{856CA5D1-715E-499A-ACCA-3D5656CFF405}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{856CA5D1-715E-499A-ACCA-3D5656CFF405}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B054ABCA-DA47-45AD-8321-230AE4301EAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B054ABCA-DA47-45AD-8321-230AE4301EAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B054ABCA-DA47-45AD-8321-230AE4301EAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B054ABCA-DA47-45AD-8321-230AE4301EAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DA72E86-3B7D-4B64-9A33-E2E8FA1B0786}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DA72E86-3B7D-4B64-9A33-E2E8FA1B0786}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DA72E86-3B7D-4B64-9A33-E2E8FA1B0786}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DA72E86-3B7D-4B64-9A33-E2E8FA1B0786}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
